@@ -1,7 +1,9 @@
 # Terribly_Tiny_Tales
- step 1: npm install step 2: npm install react-scripts step 3: npm start
+ Step 1: npm install 
+ Step 2: npm install react-scripts 
+ Step 3: npm start
 
-project file structure
+Project File Structure
 
 --> created four components --> Navbar --> Maininfo --> subinfo --> profileinfo
 
